@@ -1,0 +1,239 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    color: #242424;
+    box-sizing: border-box;
+    transition: all 2s;
+}
+
+.top {
+    font-size: 0.7rem;
+}
+
+.nav-section {
+    background-color: #000;
+}
+
+.my-btn {
+    background-color: #DB8822;
+    font-size: .875rem;
+
+}
+
+.nav-section .promo-img {
+    height: 2.5rem
+}
+
+.search input {
+    border: none;
+}
+
+.search {
+    border: 1px solid #b5b5b5;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+.search i {
+    color: #686868;
+
+}
+
+.navbar {
+    background-color: #DB8822
+}
+
+.breadcrumb {
+    background-color: #fff;
+    font-size: .6875rem;
+
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.breadcrumb .active {
+
+    color: #1b1b1b !important;
+
+
+}
+
+.breadcrumb a {
+    color: #3863a3;
+}
+
+/****************NAVBAR***********************/
+nav a {
+    color: #242424 !important;
+}
+
+/***********************item show****************/
+
+.slick-slide {
+    width: auto;
+}
+
+.slide-btn {
+    background-color: #2fa50f;
+    border: 1px solid #2fa50f;
+    color: #fff;
+
+    font-size: .875rem;
+    border-radius: .125rem
+}
+
+.green {
+    color: #2fa50f
+}
+
+
+
+
+.free-ship {
+    border: 1px solid #2fa50f;
+}
+
+.free-ship span {
+    font-size: .8125rem;
+}
+
+a {
+    color: #262422;
+    text-decoration: none;
+}
+
+
+
+.img-container {
+
+    position: relative;
+
+
+}
+
+.position {
+    position: absolute;
+    left: 0;
+    bottom: 5px;
+}
+
+.customer-det {
+    font-size: .75rem;
+}
+
+.slick-slide {
+    height: auto !important;
+}
+
+.slick-prev {
+    left: 20px;
+    top: 100px;
+
+    background-color: #242424;
+
+    z-index: 11;
+    border-radius: 3px;
+
+}
+
+
+
+.slick-next {
+    right: 20px;
+    top: 100px;
+    border-radius: 3px;
+    background-color: #242424;
+
+
+}
+
+.bord {
+    display: inline-block;
+    border-top: 3px solid #000;
+}
+
+.specification {
+    background-color: #f4f5f5;
+}
+
+.color-olive {
+
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 3px double transparent;
+    background-color: rgb(128, 128, 0);
+}
+
+.color-black {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 1px solid #000;
+    background-color: #242424;
+
+}
+
+.color-white {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    background-color: #fff;
+
+}
+
+.sizes a {
+    border: 1px solid #242424;
+    border-radius: 5px;
+}
+
+.shiping1,
+.shiping2,
+.shiping3 {
+    border-top: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.dis-none {
+    display: none;
+}
+
+/******************information section**************/
+.info {
+    font-size: .75rem;
+    background-color: #f4f5f5;
+}
+
+.earn {
+    border: 1px solid #000;
+}
+
+/*******************footer*****************/
+footer,
+.size-chart {
+    font-size: .75rem;
+}
+
+.svg-visa {
+    width: 35px;
+    height: 19px;
+}
+
+.svg-mastercard {
+    width: 25px;
+    height: 20px;
+}
+
+.svg-amex {
+    width: 21px;
+    height: 21px;
+}
+
+.svg-discover {
+    width: 30px;
+    height: 20px;
+}
+
+.svg-paypal {
+    width: 29px;
+    height: 19px;
+}
